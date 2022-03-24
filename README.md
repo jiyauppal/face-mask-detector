@@ -2,7 +2,20 @@
 
 MASK-O-DETECT is a real time covid-19 Face Mask Detector.
 
-## Installation
+## Table of Content
+
+ - [Introduction](https://github.com/jiyauppal/face-mask-detector#Introduction)
+ - [Technologies](https://github.com/jiyauppal/face-mask-detector#Technologies)
+ - [Setup](https://github.com/jiyauppal/face-mask-detector#Setup)
+
+## Introduction
+-A real-time detector to check weather a person in the frame is wearing a mask or
+not.
+-We first detect the face of the person from the image or video file.
+-We then process the face and predict the results using a face mask detector. 
+-The face mask detector model used is based on TensorFlow.
+
+## Setup
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
