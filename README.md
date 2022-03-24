@@ -7,8 +7,8 @@ MASK-O-DETECT is a real time covid-19 Face Mask Detector.
  - [Introduction](https://github.com/jiyauppal/face-mask-detector#Introduction)
  - [Technologies](https://github.com/jiyauppal/face-mask-detector#Technologies)
  - [Installation](https://github.com/jiyauppal/face-mask-detector#Installations)
- - [Installation](https://github.com/jiyauppal/face-mask-detector#Usage)
- - [Installation](https://github.com/jiyauppal/face-mask-detector#For-Contributing)
+ - [Usage](https://github.com/jiyauppal/face-mask-detector#Usage)
+ - [For Contributing](https://github.com/jiyauppal/face-mask-detector#For-Contributing)
 
 ## Introduction
 -A real-time detector to check weather a person in the frame is wearing a mask or
