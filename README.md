@@ -13,7 +13,7 @@ MASK-O-DETECT is a real time covid-19 Face Mask Detector.
 ## Introduction
 -A real-time detector to check weather a person in the frame is wearing a mask or
 not.</br>
--We first detect the face of the person from the image or video file.</br>
+-We first detect the face of the person from the image or video file and live camera.</br>
 -We then process the face and predict the results using a face mask detector.</br> 
 -The face mask detector model used is based on TensorFlow.</br>
 
